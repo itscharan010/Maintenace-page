@@ -3,3 +3,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
 }
+.container {
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;  /* Centers vertically */
+    height: 100vh;  /* Makes the container take up the full viewport height */
+.images {
+    max-width: 90%;  /* Ensures the image resizes according to screen width */
+    height: auto;  /* Maintains the aspect ratio */
+}
