@@ -1,14 +1,20 @@
-.content{
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
+body{
+    background-color: #000000;
 }
-.container {
-    display: flex;
-    justify-content: center;  /* Centers horizontally */
-    align-items: center;  /* Centers vertically */
-    height: 100vh;  /* Makes the container take up the full viewport height */
-.images {
-    max-width: 90%;  /* Ensures the image resizes according to screen width */
-    height: auto;  /* Maintains the aspect ratio */
+.content {
+    font-family: "VT323", serif;
+    font-style: normal;
+    color: #33FF33;
+    font-size: 3.5rem;
+    margin: 40px 0px 40px 40px;
+}
+.copyright {
+    font-family: "VT323", serif;
+    font-style: normal;
+    color: #33FF33;
+    font-size: 1.5rem;
+    margin: 10px 0px 10px 40px;
+}
+p{
+    margin:0px;
 }
