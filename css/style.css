@@ -1,15 +1,14 @@
 body{
     background-color: #000000;
+    font-family: "VT323", serif;
 }
 .content {
-    font-family: "VT323", serif;
     font-style: normal;
     color: #33FF33;
     font-size: 3.5rem;
     margin: 40px 0px 40px 40px;
 }
 .copyright {
-    font-family: "VT323", serif;
     font-style: normal;
     color: #33FF33;
     font-size: 1.5rem;
