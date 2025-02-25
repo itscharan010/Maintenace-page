@@ -1,6 +1,7 @@
 body{
     background-color: #000000;
     font-family: "VT323", serif;
+    text-shadow: #33FF33 0px 0px 20px;
 }
 .content {
     font-style: normal;
